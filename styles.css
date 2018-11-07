@@ -1,0 +1,26 @@
+img{ 
+    width:600px;
+}
+ 
+.artist {
+    font-family: 'Pattaya', sans-serif;
+}
+    
+h2 { 
+    font-family: 'Anton', sans-serif;
+}
+h2 { 
+    font-family: 'Acme', sans-serif;
+}
+
+h2 {
+    font-family: 'Permanent Marker', cursive;
+}
+img{
+    width:500px;
+}
+body{ 
+    font-size: 140% ; 
+    background-color: pink;
+    text-align: center;
+}
